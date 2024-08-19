@@ -1,0 +1,13 @@
+tipo:diesel:12100:3000.0
+tipo:Extra:22045:5000.0
+tipo:Corriente:15150:450.0
+tipo:mega corriente:13000:2000.0
+surtidor:Julian:diesel:0.0:Extra:0.0:Corriente:0.0:mega corriente:0.0
+surtidor:Camilo:diesel:0.0:Extra:0.0:Corriente:0.0:mega corriente:0.0
+surtidor:Julian:diesel:0.0:Extra:0.0:Corriente:0.0:mega corriente:0.0
+surtidor:Pedro:diesel:0.0:Extra:0.0:Corriente:0.0:mega corriente:0.0
+empleado:Camilo:0
+empleado:Pedro:0
+empleado:Juan:0
+empleado:Manuel:0
+empleado:Julian:0
